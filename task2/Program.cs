@@ -24,3 +24,8 @@ System.Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 System.Console.WriteLine(quotient2);
+
+int i3 = 2;
+int i4 = 4;
+int formula = i1 * i2 / (i3 + i4);
+System.Console.WriteLine(formula);
